@@ -1,0 +1,8 @@
+mai 15, 2017 4:36:45 PM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 15, 2017 4:36:45 PM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 15, 2017 4:36:45 PM chat.client.ChatClient <init>
+GRAVE: ChatClient: Couldn't get I/O for connection to host to: "yocolo-HP-ProBook-650-G2" at port "1394"
+mai 15, 2017 4:36:45 PM chat.client.ChatClient <init>
+GRAVE: Connexion refusée (Connection refused)
