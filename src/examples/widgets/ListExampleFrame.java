@@ -270,7 +270,7 @@ public class ListExampleFrame extends JFrame
 		});
 	}
 
-	private class RemoveItemAction extends AbstractAction
+	public class RemoveItemAction extends AbstractAction
 	{
 		public RemoveItemAction()
 		{
@@ -307,7 +307,7 @@ public class ListExampleFrame extends JFrame
 		}
 	}
 
-	private class ClearSelectionAction extends AbstractAction
+	public class ClearSelectionAction extends AbstractAction
 	{
 		public ClearSelectionAction()
 		{
@@ -326,7 +326,7 @@ public class ListExampleFrame extends JFrame
 		}
 	}
 
-	private class AddAction extends AbstractAction
+	public class AddAction extends AbstractAction
 	{
 		public AddAction()
 		{
